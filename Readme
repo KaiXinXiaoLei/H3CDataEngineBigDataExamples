@@ -1,0 +1,1 @@
+该工程为h3c DataEngine大数据平台提供样例代码，涉及到组件有HDFS、HBase、MapReduce、Spark、Hive等组件，并且Kerberos环境和非Kerberos环境下运行样例。
